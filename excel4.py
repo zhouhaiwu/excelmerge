@@ -3,9 +3,9 @@
 import xlrd, xlsxwriter
 
 # 待合并excel
-allxls = ["D:\\excelcs\\工作周报（20181018-20181024)徐兴伟.xlsx"]
-allxls1 = ["D:\\excelcs\\工作周报（20181018-20181024)周海武.xlsx"]
-allxls2 = ["D:\\excelcs\\工作周报（20181018-20181024)董正威.xlsx"]
+allxls = ["D:\\excelcs\\****（20181018-20181024)***.xlsx"]
+allxls1 = ["D:\\excelcs\\****（20181018-20181024)***.xlsx"]
+allxls2 = ["D:\\excelcs\\****（20181018-20181024)***.xlsx"]
 #print(allxls[0:2])
 # 目标excel
 end_xls = "D:\\excelcs\\工作周报（20181018-20181024)应用维护部.xlsx"
